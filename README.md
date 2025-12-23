@@ -1,5 +1,9 @@
 # WP Hook Kit
 
+[![Tests](https://img.shields.io/github/actions/workflow/status/nlemoine/wp-hook-kit/tests.yml?branch=main&label=tests)](https://github.com/nlemoine/wp-hook-kit/actions/workflows/tests.yml)
+[![Coverage](https://img.shields.io/codecov/c/github/nlemoine/wp-hook-kit)](https://codecov.io/gh/nlemoine/wp-hook-kit)
+[![PHPStan](https://img.shields.io/badge/PHPStan-max-brightgreen)](https://phpstan.org/)
+
 A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
 
 ## Installation
