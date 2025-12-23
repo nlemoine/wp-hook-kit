@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/nlemoine/wp-hook-kit/compare/1.0.0...1.0.1) (2025-12-23)
+
+
+### Miscellaneous Chores
+
+* Add badges ([974f693](https://github.com/nlemoine/wp-hook-kit/commit/974f6933fd07a12d2a7e49828d7aac8ef6efbdf8))
+
 ## 1.0.0 (2025-12-23)
 
 
